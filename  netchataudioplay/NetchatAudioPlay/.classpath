@@ -2,5 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="JAR/customizer.jar"/>
+	<classpathentry kind="lib" path="JAR/jmf.jar" sourcepath="C:/Program Files/JMF2.1.1e/lib/multiplayer.jar"/>
+	<classpathentry kind="lib" path="JAR/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="JAR/multiplayer.jar"/>
+	<classpathentry kind="lib" path="JAR/sound.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
